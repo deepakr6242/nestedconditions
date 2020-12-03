@@ -16,7 +16,9 @@ while True:
         print("maximum attempts reached ")
         break
     temp+=1
-
+    
+# # Enter space before and  after your operator
+# # Do a lot of negative testing and  increase validations
 # way->2
 
 # for i in range(0,3):
